@@ -1,0 +1,100 @@
+img{
+    height: 40vh;
+    width: 39vw;
+    margin-left: -10;
+    border-radius: 10px;   
+}
+    
+body{
+    font-family: sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%; 
+}
+    
+header{
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-radius:10px;
+}
+header h2{
+    font-size: 20px;   
+}
+.btn{
+    text-align: center;
+    font-size: small;
+    margin: auto;
+    padding: auto;    
+}
+    
+.border{
+    border-radius: 10px 10px 10px;    
+}
+.btn{
+    font-size: small;
+    font-weight: lighter;
+    color: #717171;
+}
+    
+.to p{
+    font-size: 12px;
+}
+    
+.around p{
+    font-size:11px;
+}
+.you p{
+    font-size: 11px;
+}
+h2{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+p{
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-size: 11px;
+}
+.alt p{
+    font-size: 11px;
+}
+
+.container{
+    width: 155w;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px  rgba (0, 0, 0, 0.1)
+}
+    
+
+.img-container{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.img-container img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+footer{
+    background: #2C3E50;
+    color:#fff;
+    padding: 5px 37px;
+    position:relative;
+    width: 560px;
+    height:50px;
+    margin: -20px -17px;
+    margin-top: 14px;
+}
+
+footer p{
+    text-align: center;
+    margin: 15px;
+}
